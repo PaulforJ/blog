@@ -1,3 +1,5 @@
 theme: minima
-title: Paul’s Blog
-description: My journey into tech and freelancing
+title: Paul's Blog
+description: My journey into tech
+baseurl: "/blog"
+url: "https://paulforj.github.io"

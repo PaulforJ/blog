@@ -1,25 +1,34 @@
 ---
 layout: home
-title: Welcome
+title: Paul | Web Developer
 ---
 
-# 👋 Hi, I'm Paul
+## Paul
 
-### Web Developer • Builder • Learner
+Frontend developer based in Nigeria.
 
-I build modern websites and document my journey in tech, freelancing, and real-world projects.
-
----
-
-## 🚀 What I Do
-- Website Design
-- Landing Pages
-- Frontend Development
-- GitHub Projects
+I build websites and document the process as I learn and improve.
 
 ---
 
-## ✨ My Mission
-To become a world-class developer by building in public and learning in public.
+## Work
 
-👉 Scroll down to read my latest posts
+I focus on:
+- Landing pages
+- Business websites
+- Frontend interfaces
+
+Some projects will be added here soon.
+
+---
+
+## Writing
+
+I use this space to write about what I’m learning and building.
+
+---
+
+## Contact
+
+WhatsApp: +234 916 596 1536  
+Email: ikwuegbupaul426@email.com

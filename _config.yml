@@ -1,5 +1,10 @@
+title: Paul Dev Journey
+description: My journey as a web developer
 theme: minima
-title: Paul's Blog
-description: My journey into tech
-baseurl: "/blog"
-url: "https://paulforj.github.io"
+
+minima:
+  skin: dark
+
+header_pages:
+  - index.md
+  - about.md

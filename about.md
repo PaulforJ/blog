@@ -3,19 +3,36 @@ layout: page
 title: About Me
 ---
 
+##  About Me
 
-I’m a web developer building modern, responsive websites.
+I'm Paul, a passionate web developer focused on building clean and functional websites.
 
-I started with zero experience and now I’m documenting my journey step by step.
-
----
-
-##  Skills I’m Learning
-- HTML, CSS, JavaScript
-- Git & GitHub
-- Frontend Development
+I specialize in:
+- Responsive design
+- Fast-loading pages
+- Modern UI/UX
 
 ---
 
-##  Goal
-To grow into a professional developer and build real projects for clients.
+##  My Mission
+
+To grow as a developer while helping businesses build strong online presence.
+
+---
+
+##  Tools I Use
+
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Next.js (learning)  
+
+---
+
+##  Why Follow My Journey?
+
+Because I’m building in public — no fake perfection.
+
+You’ll see:
+- Real struggles  
+- Real progress  
+- Real results

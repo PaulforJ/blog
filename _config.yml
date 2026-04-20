@@ -1,21 +1,16 @@
-title: Paul Dev Journey
-description: My journey as a web developer
+title: PFJ Digital
+description: Web Developer Journey | Building in Public 🚀
+baseurl: ""
+url: "https://paulforj.github.io"
+
 theme: minima
 
-minima:
-  skin: dark
+author:
+  name: Paul
+  email: ikwuegbupaul426@email.com
+
+social_links:
+  github: paulforj
 
 header_pages:
-  - index.md
   - about.md
-  ---
----
-
-@import "minima";
-
-/* Your custom styles below */
-
-body {
-  background: #ffffff;
-  color: #111;
-}

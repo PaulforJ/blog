@@ -3,19 +3,23 @@ layout: home
 title: Welcome
 ---
 
-## 👋 Hi, I'm Paul
+# 👋 Hi, I'm Paul
 
-I’m a web developer building modern, responsive websites.
+### Web Developer • Builder • Learner
 
-🚀 I specialize in:
-- Website Design
-- Landing Pages
-- Frontend Development
-
-👉 Stay tuned as I share my journey into tech, freelancing, and real projects.
+I build modern websites and document my journey in tech, freelancing, and real-world projects.
 
 ---
 
-### 📬 Contact Me
-- WhatsApp: (put your number)
-- Email: (your email)
+## 🚀 What I Do
+- Website Design
+- Landing Pages
+- Frontend Development
+- GitHub Projects
+
+---
+
+## ✨ My Mission
+To become a world-class developer by building in public and learning in public.
+
+👉 Scroll down to read my latest posts

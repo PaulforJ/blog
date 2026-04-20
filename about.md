@@ -3,7 +3,6 @@ layout: page
 title: About Me
 ---
 
-##  About Paul
 
 I’m a web developer building modern, responsive websites.
 

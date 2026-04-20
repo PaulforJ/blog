@@ -1,14 +1,21 @@
 ---
 title: "How I Started My Web Development Journey"
 date: 2026-04-20
+layout: post
 ---
+
+## My Beginning
 
 Starting web development wasn’t easy, especially without money or guidance.
 
 But I decided to take action.
 
-I began learning HTML, CSS, and using tools like GitHub to build real projects.
+## What I learned
+- HTML basics
+- CSS styling
+- GitHub for hosting projects
 
-This blog is where I’ll document everything — the struggles, wins, and lessons.
+## My goal
+To become a professional web developer and build real-world projects.
 
-Stay with me 🚀
+🚀 This is just the beginning.

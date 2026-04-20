@@ -8,3 +8,14 @@ minima:
 header_pages:
   - index.md
   - about.md
+  ---
+---
+
+@import "minima";
+
+/* Your custom styles below */
+
+body {
+  background: #ffffff;
+  color: #111;
+}

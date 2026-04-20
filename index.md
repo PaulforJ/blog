@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Paul | Web Developer
+title: Home
 ---
 
 ## Paul

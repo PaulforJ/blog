@@ -1,16 +1,7 @@
 title: PFJ Digital
-description: Web Developer Journey | Building in Public 🚀
-baseurl: ""
+description: Web Developer Journey 🚀
+
+baseurl: "/blog"
 url: "https://paulforj.github.io"
 
-theme: minima
-
-author:
-  name: Paul
-  email: ikwuegbupaul426@email.com
-
-social_links:
-  github: paulforj
-
-header_pages:
-  - about.md
+#
